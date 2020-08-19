@@ -8,9 +8,9 @@ namespace Algorithms
         static void Main(string[] args)
         {
             //MaxValue.cs
-            // int[] vector = new int[4] { 1, 44, 7, 14 };
-            // var value = MaxValue.Max(vector);
-            // Console.WriteLine(value.ToString());
+            int[] vector = new int[4] { 1, 44, 7, 14 };
+            var value = MaxValue.Max(vector);
+            Console.WriteLine(value.ToString());
 
             //MaxAndMin.cs
             int[] vectorA = new int[4] { 4, 68, 32, 22 };
